@@ -269,7 +269,7 @@ videos = {
     "멜로": "https://www.youtube.com/watch?v=0pdqf4P9MB8",
     "미스터리": "https://www.youtube.com/watch?v=YoHD9XEInc0",
     "스릴러": "https://www.youtube.com/watch?v=6hB3S9bIaco",
-    "액션": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "액션": "https://www.youtube.com/watch?v=-V7qhn-SCmI",
 }
 
 if "selected_genre" not in st.session_state:
