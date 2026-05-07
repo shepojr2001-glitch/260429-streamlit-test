@@ -266,7 +266,7 @@ with st.container(border=True):
         st.write("주말 채널 주도권을 룸메에게 뺏겨서야 되겠습니까?")
 
 videos = {
-    "멜로": "https://www.youtube.com/watch?v=0pdqf4P9MB8",
+    "멜로": "https://www.youtube.com/watch?v=sDgg9y2kbbE",
     "미스터리": "https://www.youtube.com/watch?v=YoHD9XEInc0",
     "스릴러": "https://www.youtube.com/watch?v=6hB3S9bIaco",
     "액션": "https://www.youtube.com/watch?v=-V7qhn-SCmI",
