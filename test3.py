@@ -12,7 +12,7 @@ chart_data = pd.DataFrame({
     "Month": ["1월", "2월", "3월", "4월", "5월", "6월", "7월", "8월", "9월", "10월", "11월", "12월"],
     "Sales": [4300, 4500, 2800, 3600, 3750, 2700, 1800, 2650, 1850, 1300, 4900, 2050]
 })
-
+chart_data["Month"] = pd.Categorical(chart_data["Month"], categories=chart_data["Month"], ordered=True)
 
 table_data = pd.DataFrame({
     "거래내역": ["INV001", "INV002", "INV003", "INV004", "INV005"],
